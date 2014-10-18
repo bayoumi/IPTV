@@ -23,27 +23,6 @@
 <item>
 <title>DR3</title>
 <link>http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8</link>
-<thumbnail>http://www.lyngsat-log#######################################################################################################################################
-<poster>IPTV</poster>
-<fanart></fanart>
-#######################################################################################################################################
-
-
-<item>
-<title>DR1</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/dr_1.png</thumbnail>
-</item>
-
-<item>
-<title>DR2 HD</title>
-<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/dr_2.png</thumbnail>
-</item>
-
-<item>
-<title>DR3</title>
-<link>http://dr03-lh.akamaihd.net/i/dr03_0@147056/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dr_3.png</thumbnail>
 </item>
 
