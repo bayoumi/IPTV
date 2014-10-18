@@ -39,25 +39,55 @@
 <link>http://dr06-lh.akamaihd.net/i/dr06_0@147059/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dr_ultra_dk.png</thumbnail>
 </item>
-----
+
 <item>
 <title>TV2 Fyn</title>
 <link>rtmp://<HOST>:1935/live/_definst_/tv2fyn_2000 live=1</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/tv2_fyn_dk.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_fyn_dk.png/thumbnail>
 </item>
 
 <item>
 <title>TV2 Lorry</title>
 <link>rtmp://<HOST>:1935/live/_definst_/tv2lorry_2000 live=1</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/dd/tv2_lorry_dk.png</thumbnail>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_lorry.png</thumbnail>
 </item>
-----
+
 <item>
-<title>TV3 Puls</title>
-<link>http://viasatlive1-i.akamaihd.net/hls/live/202795/tv3puls/wifi1500.m3u8</link>
-<thumbnail>http://static.timefor.tv/imgs/epg/logos/tv3puls_dk_dk_big.png</thumbnail>
+<title>TV2 Syd</title>
+<link>rtmp://<HOST>:1935/live/_definst_/tvsyd_2000 live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_syd.png</thumbnail>
 </item>
-	
+
+<item>
+<title>TV2 Midtvest</title>
+<link>rtmp://live.tvmidtvest.dk/tvmv/live live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv_midt_vest_dk.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 Nord</title>
+<link>rtmp://<HOST>:1935/live/_definst_/tv2nord-plus_2000 live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_nord.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 Øst</title>
+<link>http://tv2east.live-s.cdn.bitgravity.com/cdn-live-c1/_definst_/tv2east/live/feed01/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_ost_dk.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 Østjylland</title>
+<link>rtmp://<HOST>:1935/live/_definst_/tv2oj-plus_2000 live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_ostjylland.png</thumbnail>
+</item>
+
+<item>
+<title>TV2 Zulu</title>
+<link>rtmp://<HOST>:1935/live/_definst_/tv2zulu-plus_2000 live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tv2_zulu_dk.png</thumbnail>
+</item>
+
 <item>
 <title>TV3 Puls</title>
 <link>http://viasatlive1-i.akamaihd.net/hls/live/202795/tv3puls/wifi1500.m3u8</link>
@@ -66,7 +96,7 @@
 
 <item>
 <title>TV3+</title>
-<link>http://viasatlive2-i.akamaihd.net/hls/live/202775/tv3plus/mastererki2.m3u8</link>
+<link>http://viasatlive2-i.akamaihd.net/hls/live/202775/tv3plus/mastererki1.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/viasat_tv3_plus_dk_hd.png</thumbnail>
 </item>
 
