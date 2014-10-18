@@ -1,0 +1,29 @@
+#######################################################################################################################################
+<poster>IPTV</poster>
+<fanart></fanart>
+#######################################################################################################################################
+<info>
+<message>[COLOR=FF0000]IPTV provided by: bayoumi.dk [/COLOR]</message>
+<thumbnail> </thumbnail>
+</info>
+##############################################################################################################################
+
+<name>Danske Kanaler</name>
+<link>https://github.com/bayoumi/IPTV/blob/master/DK_Kanaler.xml</link>
+<thumbnail></thumbnail>
+<date>18/10/14</date>
+
+<name>Amerikanske Kanaler</name>
+<link>https://github.com/bayoumi/IPTV/blob/master/AM_Kanaler.xml</link>
+<thumbnail></thumbnail>
+<date>18/10/14</date>
+
+<name>Tyrkiske Kanaler</name>
+<link>https://github.com/bayoumi/IPTV/blob/master/TY_Kanaler.xml</link>
+<thumbnail></thumbnail>
+<date>18/10/14</date>
+
+<name>Sports Kanaler</name>
+<link>https://github.com/bayoumi/IPTV/blob/master/SP_Kanaler.xml</link>
+<thumbnail></thumbnail>
+<date>18/10/14</date>
