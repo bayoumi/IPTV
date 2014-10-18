@@ -1,6 +1,6 @@
 #######################################################################################################################################
 <poster>IPTV</poster>
-<fanart</fanart>
+<fanart></fanart></fanart>
 #######################################################################################################################################
 
 
@@ -39,7 +39,19 @@
 <link>http://dr06-lh.akamaihd.net/i/dr06_0@147059/master.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/dr_ultra_dk.png</thumbnail>
 </item>
+----
+<item>
+<title>TV2 Fyn</title>
+<link>rtmp://<HOST>:1935/live/_definst_/tv2fyn_2000 live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/tv2_fyn_dk.png</thumbnail>
+</item>
 
+<item>
+<title>TV2 Lorry</title>
+<link>rtmp://<HOST>:1935/live/_definst_/tv2lorry_2000 live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/tv2_lorry_dk.png</thumbnail>
+</item>
+----
 <item>
 <title>TV3 Puls</title>
 <link>http://viasatlive1-i.akamaihd.net/hls/live/202795/tv3puls/wifi1500.m3u8</link>
