@@ -1,12 +1,31 @@
+#######################################################################################################################################
+<poster>IPTV Provided by Bayoumi Websolutions</poster>
+<fanart>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/UJ2y2pEUG9/SATELLITES12.jpg</fanart>
+#######################################################################################################################################
+<info>
+<message>[COLOR=FF00FF00]Follow me on facebook: fb.com/bayoumidk</message>
+<thumbnail></thumbnail>
+</info>
+<notify>
+<new></new>
+<message1>IPTV - Always online</message1>
+<old></old>
+</notify>
+#######################################################################################################################################
 
 
 
-<name>Danske Kanaler</name>
+<name>Danish Channels</name>
 <link>https://raw.githubusercontent.com/bayoumi/IPTV/master/DK_Kanaler.xml</link>
 <thumbnail></thumbnail>
 <date>18/10/14</date>
 
-<name>Danske Kanaler</name>
+<name>Turkish Channels</name>
+<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/turk.xml</link>
+<thumbnail></thumbnail>
+<date>18/10/14</date>
+
+<name>Sport Channels</name>
 <link>https://raw.githubusercontent.com/bayoumi/IPTV/master/DK_Kanaler.xml</link>
 <thumbnail></thumbnail>
 <date>18/10/14</date>
