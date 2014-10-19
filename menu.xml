@@ -16,16 +16,16 @@
 
 
 <name>Danish Channels</name>
-<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/DK_Kanaler.xml</link>
+<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/channels/dansk.xml</link>
 <thumbnail></thumbnail>
 <date>18/10/14</date>
 
 <name>Turkish Channels</name>
-<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/turk.xml</link>
+<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/channels/turk.xml</link>
 <thumbnail></thumbnail>
 <date>18/10/14</date>
 
-<name>Sport Channels</name>
-<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/DK_Kanaler.xml</link>
+<name>Back to menu</name>
+<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/menu.xml</link>
 <thumbnail></thumbnail>
 <date>18/10/14</date>
