@@ -266,11 +266,22 @@
 
 <item>
 
-<title>Disney Channel</title>
+<title>Nickelodeon</title>
 
-<link>http://hls01-05.az.myvideo.az/hls-live/livepkgr/disney/disney/disney.m3u8&rRb545vJBB5tYzB7vVP</link>
+<link>http://hls01-05.az.myvideo.az/hls-live/livepkgr/nickelodeon/nickelodeon/nickelodeon.m3u8&rRb545vJBB5tYzB7vVP</link>
 
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 
 </item>
+
+<item>
+
+<title>Cartoon Network</title>
+
+<link>http://hls01-09.az.myvideo.az/hls-live/livepkgr/cartoon/cartoon/cartoon.m3u8&rRb545vJBB5tYzB7vVP</link>
+
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+
+</item>
+
 
