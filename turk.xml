@@ -7,6 +7,83 @@
 #######################################################################################################################################
 
 
+<item>
+<title>Telecine</title>
+<link>rtmp://win5.yayinda.org/telecine/telecine</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA</title>
+<link>http://yayin7.canliyayin.org/sinema</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA TURK</title>
+<link>http://yayin7.canliyayin.org/sinematurk</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA 6</title>
+<link>http://yayin7.canliyayin.org/sinema6</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA 5</title>
+<link>http://yayin7.canliyayin.org/sinema5</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA 4</title>
+<link>http://yayin7.canliyayin.org/sinema4</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA 3</title>
+<link>http://yayin7.canliyayin.org/sinema3</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA 2</title>
+<link>http://yayin7.canliyayin.org/sinema2</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>SINEMA 1</title>
+<link>http://yayin7.canliyayin.org/sinema1</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>Netd Sinema</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/taksim/1000/prog_index.m3u8</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>Dream TV</title>
+<link>http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>TAY TV</title>
+<link>http://212.224.108.76:80/S1/HLS_LIVE/tay/1000/prog_index.m3u8</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>CNN TURK</title>
+<link>http://212.224.108.76:80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
 
 
 
