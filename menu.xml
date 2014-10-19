@@ -1,6 +1,6 @@
 #######################################################################################################################################
 <poster>IPTV Provided by Bayoumi Websolutions</poster>
-<fanart>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/UJ2y2pEUG9/SATELLITES12.jpg</fanart>
+<fanart>http://newtvworld.com/Images/livetv_transparent.png</fanart>
 #######################################################################################################################################
 <info>
 <message>[COLOR=FF00FF00]Follow me on facebook: fb.com/bayoumidk</message>
@@ -17,15 +17,15 @@
 
 <name>Danish Channels</name>
 <link>https://raw2.github.com/bayoumi/IPTV/master/channels/dansk.xml</link>
-<thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/UJ2y2pEUG9/SATELLITES12.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 <date>18/10/14</date>
 
 <name>Turkish Channels</name>
 <link>https://raw2.github.com/bayoumi/IPTV/master/channels/turk.xml</link>
-<thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/UJ2y2pEUG9/SATELLITES12.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 <date>18/10/14</date>
 
 <name>Back to menu</name>
 <link>https://raw.githubusercontent.com/bayoumi/IPTV/master/menu.xml</link>
-<thumbnail>https://dl.dropboxusercontent.com/sh/9if72tm27qnnkt9/UJ2y2pEUG9/SATELLITES12.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 <date>18/10/14</date>
