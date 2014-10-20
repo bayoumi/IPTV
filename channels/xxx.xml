@@ -1,9 +1,5 @@
-<stream>
+<item>
 <title>Penthouse HD</title>
-<swfUrl>http://tvsector.com/mediaplayer/player.swf</swfUrl>
 <link>rtmp://s7.webport.tv/live/z990103.stream</link>
-<pageUrl>http://tvsector.com</pageUrl>
-<playpath>z990103.stream</playpath>
-<language>English</language>
-<advanced>live=1</advanced>
-</stream>
+<thumbnail>http://alatest.com/blog/wp-content/uploads/2010/10/hdtv-300x241.jpg</thumbnail>
+</item>
