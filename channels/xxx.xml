@@ -1,5 +1,9 @@
-<item>
-<title>Playboy Venus</title>
-<link>http://limev.com/DSADA322</link>
-<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Playboy-Venus-Channel.jpeg</thumbnail>
-</item>
+<stream>
+<title>Penthouse HD</title>
+<swfUrl>http://tvsector.com/mediaplayer/player.swf</swfUrl>
+<link>rtmp://s7.webport.tv/live/z990103.stream</link>
+<pageUrl>http://tvsector.com</pageUrl>
+<playpath>z990103.stream</playpath>
+<language>English</language>
+<advanced>live=1</advanced>
+</stream>
