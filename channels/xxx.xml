@@ -1,0 +1,58 @@
+<item>
+<title>+ UK \ Blue Hustler TV</title>
+<link>rtmp://tv.tvsector.com/live/z990102.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
+<thumbnail>http://futubox.com/system/icon_ds/224/original/hustler_hd.png</thumbnail>
+</item>
+
+<item>
+<title>+ US \ Playboy TV (soft)</title>
+<link>rtmp://38.96.175.173:1935/live/00006@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00006@hyqw&vw=468&vh=368 live=true</link>
+<thumbnail>http://hivine.files.wordpress.com/2008/03/401px-red_ribbon_svg.png</thumbnail>
+</item>
+
+<item>
+<title>+ UK \ Redlight TV</title>
+<link>rtmp://tv.tvsector.com/live/z990101.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
+<thumbnail>http://futubox.com/system/icon_ds/226/original/redlight.png</thumbnail>
+</item>
+
+<item>
+<title>+ UK \ Penthouse HD1</title>
+<link>rtmp://tv.tvsector.com/live/z990103.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live </link>
+<thumbnail>http://futubox.com/system/icon_ds/121/original/penthouse.png</thumbnail>
+</item>
+
+<item>
+<title>+ UK \ Penthouse HD2</title>
+<link>rtmp://tv.tvsector.com/live/z990104.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
+<thumbnail>http://futubox.com/system/icon_ds/122/original/penthouse2.png</thumbnail>
+</item>
+ 
+            <item>
+                <title>+ UK \ Venus</title>
+                <link>rtmp://c31.webcaston.com/live/channel/ playpath=fituyry
+                    swfUrl=http://www.webcaston.com/player/player.swf live=1 pageUrl=http://www.webcaston.com
+                </link>
+                <thumbnail>http://en.kingofsat.net/jpg/venus-arabic.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>Live HD Cams</name>
+        <thumbnail>http://www.ipad-application-reviews.com/wp-content/uploads/2010/06/live-cams-hd-app-150x150.png
+        </thumbnail>
+        <items>
+            <item>
+                <title>+ JP \ Tokyo \ Chou City
+                </title>
+                <thumbnail>none</thumbnail>
+                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf
+                    playpath=tokyo1.flv live=true
+                </link>
+            </item>
+            <item>
+                <title>+ JP \ Fukushima \ Wakamatsu Station
+                </title>
+                <thumbnail>none</thumbnail>
+                <link>mms://center3.ntt-fukushima.com/n-jraizu</link>
+            </item>
