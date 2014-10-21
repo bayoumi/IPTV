@@ -2,8 +2,14 @@
 <poster>IPTV - Provided by: Bayoumi.dl</poster>
 <fanart></fanart>
 #######################################################################################################################################
+<info>
+<message>[COLOR=FFFF0000]Announcement(s): Fixed Bein Sport 1, Fixed MBC Pro 1-4[/COLOR]</message>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/3/32/The_flag_of_Syrian_Arab_Republic_Damascus%2C_Syria.jpg</thumbnail>
+</info>
 
-<item><title>[COLOR=FFFF0000]:: SPORTS CHANNELS ::[/COLOR]</title>
+
+
+<item><title>:: [COLOR=FFFF0000]SPORTS CHANNELS[/COLOR] ::</title>
 <link>http://bayoumi.dk</link>
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
