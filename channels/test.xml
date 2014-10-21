@@ -3,68 +3,59 @@
 <fanart></fanart>
 #######################################################################################################################################
 
-<title>+ Sport Channels</title>
+<item><title>[COLOR:FFFF0000]:: SPORTS CHANNELS ::[/COLOR]</title>
+<link>http://bayoumi.dk</link>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
 
 <item>
 <title>MBC Pro 1</title>
 <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8</link>
-<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>MBC Pro 2</title>
 <link>http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8</link>
-<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live2.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>MBC Pro 3</title>
 <link>http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8</link>
-<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live3.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>MBC Pro 4</title>
 <link>http://mbcprosports04-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8</link>
-<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live4.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>Al Nahar Sports</title>
 <link>rtmp://50.7.180.18/nahar_tv playpath=nahar_sport.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/ live=true timeout=15</link>
-<thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel2.png</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
-<title>Dubai Sports [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
+<title>Dubai Sports</title>
 <link>http://cdnehlsdubaisports2.endavomedia.com/smil:dmilivedubaisports2.smil/playlist.m3u8</link>
-<thumbnail>http://referenceur-tv.com/wp-content/uploads/2013/05/dubai-sports-tv-online-live-channel-streaming.png</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>Kuwait Sports</title>
 <link>rtmp://91.140.238.7/ app=rtmplive/rtpencoder playpath=ch3.sdp swfUrl=http://www.media.gov.kw/tvradio/Portal/player.swf live=true timeout=15 pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSport.htm</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_sport.png</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>Oman Sports</title>
 <link>rtmp://38.96.148.30:1935/live playpath=omantv2 swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15 pageUrl=http://www.part.gov.om/omantvsport/english/</link>
-<thumbnail>http://4.bp.blogspot.com/_7oY0Rsag9gM/Sht40a3RQHI/AAAAAAAAArk/wpwoBu2Jyco/s400/L%26T_Oman_logo.JPG</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>Nile Sport</title>
 <link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1</link>
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2013/04/NIle-Sport-TV-Channel.png</thumbnail>
-</item>
-<item>
-<title>Al Kass HD</title>
-<link>
-http://alkass-i.akamaihd.net/hls/live/205534/kassHD/$doregex[url]20.m3u8
-<regex>
-<name>url</name>
-<expres>ff9c00.([^|\medi]*)</expres>
-<page>http://shoof.alkass.net/shoof/live/live_2.php</page>
-<referer>http://shoof.alkass.net/shoof/live/live_2.php</referer>
-</regex>
-</link>
-<thumbnail>http://d2htvlive.in/wp-content/uploads/2013/03/Watch-AL-Kass-Plus-Channel-Live.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 <item>
 <title>Iraqi Sports Channel</title>
 <link>http://212.7.205.5:1935/sport/live/playlist.m3u8</link>
-<thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
+<thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
