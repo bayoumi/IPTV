@@ -38,42 +38,6 @@
 <link>rtmp://50.7.180.18/nahar_tv playpath=nahar_sport.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/ live=true timeout=15</link>
 <thumbnail>http://www.alnaharlive.net/wp-content/themes/nahar/images/channel2.png</thumbnail>
 </item>
-<item>
-<title>Dubai Sports [COLOR=FFFF0000]Geo Blocked In Some Areas[/COLOR]</title>
-<link>http://cdnehlsdubaisports2.endavomedia.com/smil:dmilivedubaisports2.smil/playlist.m3u8</link>
-<thumbnail>http://referenceur-tv.com/wp-content/uploads/2013/05/dubai-sports-tv-online-live-channel-streaming.png</thumbnail>
-</item>
-<item>
-<title>Kuwait Sports</title>
-<link>rtmp://91.140.238.7/ app=rtmplive/rtpencoder playpath=ch3.sdp swfUrl=http://www.media.gov.kw/tvradio/Portal/player.swf live=true timeout=15 pageUrl=http://www.media.gov.kw/tvradio/Portal/KTVSport.htm</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_sport.png</thumbnail>
-</item>
-<item>
-<title>Oman Sports</title>
-<link>rtmp://38.96.148.30:1935/live playpath=omantv2 swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15 pageUrl=http://www.part.gov.om/omantvsport/english/</link>
-<thumbnail>http://4.bp.blogspot.com/_7oY0Rsag9gM/Sht40a3RQHI/AAAAAAAAArk/wpwoBu2Jyco/s400/L%26T_Oman_logo.JPG</thumbnail>
-</item> 
-<item>
-<title>Nile Sport</title>
-<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1</link>
-<thumbnail>http://www.livetvstreamingfree.com/wp-content/uploads/2013/04/NIle-Sport-TV-Channel.png</thumbnail>
-</item>
-<item>
-<title>Iraqi Sports Channel</title>
-<link>http://212.7.205.5:1935/sport/live/playlist.m3u8</link>
-<thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
-</item>
-<item>
-<title>Dubai Sports 3</title>
-<link>rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/ app=dmiLiveDubaiSports3/live_1 playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=650&amp;height=476&amp;channel=dubaisports3</link>
-<thumbnail>http://2.bp.blogspot.com/-7S1bTNGPZG8/UlOoeCFEWMI/AAAAAAAACbI/AGl4w4SnwdU/s1600/dubai+sport+3+logo.PNG</thumbnail>
-</item>
-<item>
-<title>Dubai Racing</title>
-<link>rtmp://dmiLiveDubaiRacing2.flash.internapcdn.net/ app=dmiLiveDubaiRacing2/live_1 playpath=dmilivedubairacing2_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=650&amp;height=476&amp;channel=dubairacing</link>
-<thumbnail>http://www.diahc.ae/$Common/Image/Logo/dubai-racing_logo.jpg</thumbnail>
-</item>
-
 
 
 
@@ -85,6 +49,8 @@
 <link>http://bayoumi.dk</link>
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
+
+
 <item>
 <title>Al Masria</title>
 <link>http://38.99.146.36:7777/AlMasriyah_HD/AlMasriyah_HD.m3u8</link>
@@ -95,21 +61,13 @@
 <link>http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/master.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/94.gif</thumbnail>
 </item>	
-<item>
-<title>Al Manar HD</title>
-<link>rtmp://38.96.148.204:1935/liveedge/ playpath=livestream_720p swfUrl=http://www.almanar.com.lb/jwplayer/jwplayer.flash.swf pageUrl=http://www.almanar.com.lb/manarlive.php live=true timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
-</item>
+
 <item>
 <title>Bahrain TV 3</title>
 <link>rtmp://155.obj.netromedia.net/alayam playpath=alayam swfUrl=http://www.elahmad.com/tv/swf/bahrain.swf/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=true timeout=15 pageUrl=http://www.elahmad.com/tv/bahrain.php</link>
 <thumbnail>http://www.suhailalgosaibi.com/wp-content/uploads/2011/03/bahrain_tv.png</thumbnail>
 </item>
-<item>
-<title>Baghdad Sat</title>
-<link>rtmp://streamer1.hamuraabi.com:1935/ app=baghdad playpath=live swfUrl=http://hamuraabi.com/BAGHDAD/player.swf pageUrl=http://hamuraabi.com/BAGHDAD/baghdad.html live=true timeout=15</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/baghdad_tv.jpg</thumbnail>
-</item>
+
 <item>
 <title>Al Rai</title>
 <link>mms://62.215.216.130/wmtencoder/alrai350.wmv</link>
@@ -125,11 +83,7 @@
 <link>rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256</link>
 <thumbnail>http://www.ashura.tv/live-tv/al-forat-tv/logo.jpg</thumbnail>
 </item>
-<item>
-<title>Kuwait 1</title>
-<link>http://91.140.238.7/Segments/HLS_TS/rtpencoder/ch1.sdp.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/kk/ktv_1.png</thumbnail>
-</item>
+
 <item>
 <title>Al Hiwar</title>
 <link>rtmp://185.2.136.148/livepkgr/ playpath=livestream swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alhiwar.tv/android.php</link>
@@ -145,34 +99,13 @@
 <link>http://btv.alayam.com/alayam/alayam/playlist.m3u8</link>
 <thumbnail>http://www.listenradiostreaming.com/wp-content/uploads/2013/01/Alayam-FM-93.3-Station-Live-Online-Free-Bahrain.jpg</thumbnail>
 </item>
-<item>
-<title>Iraqi Media Network</title>
-<link>http://212.7.205.5:1935/Iraqia/live/playlist.m3u8</link>
-<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
-</item>
+
 <item>
 <title>El Shorooq TV</title>
 <link>http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8</link>
 <thumbnail>http://arabicfomny.com/fomnyarabictv/alshorooq_tv_live.jpg</thumbnail>
 </item>
 
-
-
-<item>
-<title>Cairo Cinema</title>
-<link>http://38.99.146.44:7777/CairoDrama/CairoDrama_Low.m3u8</link>
-<thumbnail>http://www.cairocinema.net/wp-content/uploads/2014/02/Comp-1-0-00-01-00-222x300.png</thumbnail>
-</item>
-<item>
-<title>Cario Drama</title>
-<link>http://38.99.146.43:7777/CairoDrama.m3u8</link>
-<thumbnail>http://www.livetv.tn/images/icons/64.gif</thumbnail>
-</item>
-<item>
-<title>Talaqie</title>
-<link>rtmp://82.137.248.20:1935/Talaqie playpath=TalaqieLive3 swfUrl=http://live.rtv.gov.sy/flash/lib/StrobeMediaPlayback2.swf pageUrl=http://live.rtv.gov.sy/Talaqie.aspx?HQ=1 live=true timeout=15</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/e/e7/Talaqie_Logo.png</thumbnail>
-</item>
 <item>
 <title>Syria Drama</title>
 <link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
@@ -198,21 +131,7 @@
 <link>http://38.99.146.36:7777/Alhayat2_HD.m3u8</link>
 <thumbnail>http://www.arabictvnetwork.com/images/MediaBox/Arabic/Al-Hayat/AlHayat2.png</thumbnail>
 </item>
-<item>
-<title>Al Hayat Cinema</title>
-<link>http://38.99.146.36:7777/AlHayatCinema_HD/AlHayatCinema_HD.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/aa/alhayat_cinema.png</thumbnail>
-</item>
-<item>
-<title>Aljadeed (Link 2)</title>
-<link>http://38.99.146.36:7777/AlJadeed_HD/AlJadeed_HD.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
-</item>
-<item>
-<title>LBC SAT</title>
-<link>http://38.99.146.43:7777/LBC.m3u8</link>
-<thumbnail>http://fikrconferences.org/sites/default/files/lbc-logo.jpg?1352659193</thumbnail>
-</item>
+
 <item>
 <title>Al Sumaria</title>
 <link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live live=true timeout=15</link>
@@ -273,11 +192,7 @@
 <link>http://live.echoroukonline.com/live/EchoroukTV_SD/chunklist.m3u8</link>
 <thumbnail>http://www.livetv.tn/images/icons/118.gif</thumbnail>
 </item>
-<item>
-<title>Dubai One</title>
-<link>http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaionehls.smil/playlist.m3u8</link>
-<thumbnail>http://www.livetv.tn/images/icons/111.gif</thumbnail>
-</item>
+
 <item>
 <title>Mehwer</title>
 <link>rtmp://livestreaming4.onlinehorizons.net/ app=MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf live=true timeout=15 pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/</link>
@@ -303,11 +218,7 @@
 <link>rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive swfUrl=http://itworks-me.net/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://itworks-me.net/otvent/live2.php</link>
 <thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
 </item>
-<item>
-<title>Aljadeed</title>
-<link>rtmp://livestreaming.itworkscdn.net/ app=aljadeedlive playpath=aljadeed_360p swfurl=http://www.itworks-me.net/aljadeed/jwplayer.flash.swf pageurl=http://www.itworks-me.net/ live=true timeout=15</link>
-<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
-</item>
+
 <item>
 <title>Nile Life</title>
 <link>rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ntnegypt.net/stream.php?ch=life</link>
@@ -347,6 +258,12 @@
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 
+
+<item>
+<title>Aljadeed</title>
+<link>rtmp://livestreaming.itworkscdn.net/ app=aljadeedlive playpath=aljadeed_360p swfurl=http://www.itworks-me.net/aljadeed/jwplayer.flash.swf pageurl=http://www.itworks-me.net/ live=true timeout=15</link>
+<thumbnail>http://1.bp.blogspot.com/-W1Ry_s_c5-k/UAw9jeMFGoI/AAAAAAAANlY/SJ_JbZV8W5E/s400/aljadeed%2Btv.jpeg</thumbnail>
+</item>
 <item>
 <title>Syria TV</title>
 <link>http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8</link>
@@ -371,6 +288,11 @@
 <title>Al Mayadeen</title>
 <link>rtmp://livestreaming3.itworkscdn.net/mayadeenlive playpath=mayadsat swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.almayadeen.net/live</link>
 <thumbnail>http://3.bp.blogspot.com/-IOB9KcaUF4Q/UJb9e9T9jYI/AAAAAAAADtk/qaZeDGNGNuw/s1600/al_mayadeen_tv.png</thumbnail>
+</item>
+<item>
+<title>Al Manar HD</title>
+<link>rtmp://38.96.148.204:1935/liveedge/ playpath=livestream_720p swfUrl=http://www.almanar.com.lb/jwplayer/jwplayer.flash.swf pageUrl=http://www.almanar.com.lb/manarlive.php live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.jpg</thumbnail>
 </item>
 <item>
 <title>Alalam</title>
