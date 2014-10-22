@@ -18,8 +18,8 @@
 </item>
 
 <item>
-<title>MBC 1</title>
-<link>http://195.244.40.215:8001/1:0:1:2:200:2BE:1040000:0:0:0: </link>
+<title>OTV</title>
+<link>http://82.135.224.134:80/udp/239.100.2.48:1234</link>
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 </item>
 
