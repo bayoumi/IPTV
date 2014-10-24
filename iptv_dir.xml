@@ -14,18 +14,23 @@
 #######################################################################################################################################
 
 
-
+<dir>
 <name>Danish Channels</name>
-<link>https://raw2.github.com/bayoumi/IPTV/master/channels/dansk.xml</link>
+<link>https://raw2.github.com/bayoumi/IPTV/master/channels/danish.xml</link>
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 <date>18/10/14</date>
+</dir>
 
+<dir>
 <name>Turkish Channels</name>
 <link>https://raw2.github.com/bayoumi/IPTV/master/channels/turk.xml</link>
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 <date>18/10/14</date>
+</dir>
 
-<name>Back to menu</name>
-<link>https://raw.githubusercontent.com/bayoumi/IPTV/master/menu.xml</link>
+<dir>
+<name>Arabic Channels</name>
+<link>https://raw2.github.com/bayoumi/IPTV/master/channels/danish.xml</link>
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
 <date>18/10/14</date>
+</dir>
