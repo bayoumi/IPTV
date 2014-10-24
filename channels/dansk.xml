@@ -148,6 +148,12 @@
 </item>
 
 <item>
+<title>Kanal Sport</title>
+<link>http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tv4_sport.png</thumbnail>
+</item>
+
+<item>
 <title>TV4</title>
 <link>http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8</link>
 <thumbnail>https://www.apple.com/appletv/whats-on/images/vevo.png</thumbnail>
