@@ -1,24 +1,30 @@
 <item>
-<title>tv1000</title>
-<link>http://217.114.178.110:4022/udp/236.0.6.63:1120</link>
+<title>Nat geo</title>
+<link>http://5.129.247.131:81/udp/239.72.6.142:1234</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
 <item>
-<title>sky cinema</title>
-<link>http://82.135.224.134:80/udp/239.102.0.192:1234</link>
+<title>cartoon net</title>
+<link>http://5.129.247.131:81/udp/239.72.6.146:1234</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
 <item>
-<title>Cartoon net</title>
-<link>http://82.135.224.134:80/udp/239.102.0.133:1234</link>
+<title>disco chan</title>
+<link>http://5.129.247.131:81/udp/239.72.6.200:1234</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
 <item>
-<title>car</title>
-<link>http://82.135.224.134:80/udp/239.102.1.35:1234?by_HasBahCa</link>
-<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+<title>Eurosport 1</title>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
 </item>
-http://92.246.18.250:9981/stream/channelid/4
+
+<item>
+<title>Eurosport 2</title>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
+</item>
+
