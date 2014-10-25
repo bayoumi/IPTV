@@ -228,10 +228,15 @@
 <thumbnail>hh</thumbnail>
 </item>
 
+<item>
+<title>BellaClub HD</title>
+<link>http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/xx/xxx_mums.png</thumbnail>
+</item>
 
 <item>
-<title>Strictly Belly Dance</title>
-<link>rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp?trackingid=3651600000>ime=1350065493&guid=2d9f4150f6c6402f8c00123456789012&da=0&hk=06C4148467BA4835A0A46704B2986793</link>
+<title>Your Diva</title>
+<link>http://46.249.213.87/iPhone/broadcast/youdiva-iphone.3gp/youdiva-iphone.3gp-mr413k.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/xx/xxx_mums.png</thumbnail>
 </item>
 
