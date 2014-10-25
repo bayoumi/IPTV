@@ -136,6 +136,13 @@
 </item>
 
 <item>
+<title>Canal 9</title>
+<link>rtmp://stream1.lifestyletv.se/live/livestream2</link>
+<thumbnail>http://mlgz0r-hehetv.googlecode.com/svn/addons/channels/Canal%209.png</thumbnail>
+</item>
+
+
+<item>
 <title>3Sport1 HD</title>
 <link>http://viasatlive1-i.akamaihd.net/hls/live/207015/tv3sport1HD/YrQMBxmkeV.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/vv/viasat_tv3_sport1_dk_hd.png</thumbnail>
