@@ -142,9 +142,15 @@
 </item>
 
 <item>
-<title>Lifestyle TV SE</title>
-<link>rtmp://stream1.lifestyletv.se/live/livestream2</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lifestyle_tv_se.png</thumbnail>
+<title>Eurosport 1</title>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport.png</thumbnail>
+</item>
+
+<item>
+<title>Eurosport 2</title>
+<link>http://83.139.104.123/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.png</thumbnail>
 </item>
 
 
@@ -224,6 +230,12 @@
 <title>TV10 SE</title>
 <link>http://viasatlive3-i.akamaihd.net/hls/live/202781/tv10se/1aik.m3u8</link>
 <thumbnail>http://newtvworld.com/Images/livetv_transparent.png</thumbnail>
+</item>
+
+<item>
+<title>Lifestyle TV SE</title>
+<link>rtmp://stream1.lifestyletv.se/live/livestream2</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lifestyle_tv_se.png</thumbnail>
 </item>
 
 
