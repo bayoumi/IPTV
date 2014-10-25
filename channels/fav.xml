@@ -1,6 +1,6 @@
 <item>
-<title>Hustler tv</title>
-<link>http://213.211.50.2:8080/udp/233.49.26.204:2314</link>
+<title>Belly</title>
+<link>rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp?trackingid=3651600000>ime=1350065493&guid=2d9f4150f6c6402f8c00123456789012&da=0&hk=06C4148467BA4835A0A46704B2986793</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
@@ -11,8 +11,8 @@
 </item>
 
 <item>
-<title>Platinum</title>
-<link>http://8.12.105.44:8085/udp/239.29.13.13:1234</link>
+<title>HQ Amatures</title>
+<link>http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
@@ -24,6 +24,6 @@
 
 <item>
 <title>Playboy</title>
-<link>http://iptv-iptv.dyndns.tv/vachelerfyf/jdhh6d76d/15.ch</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://playback.d2see.com/wavemachine-live02/ playpath=playboytv_channel1 live=1</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
