@@ -55,11 +55,19 @@
 </item>
 
 
+
+<item>
+<title>MBC Drama</title>
+<link>rtmp://www.teledunet.com:1935/teledunet/mbc_drama</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_drama.png</thumbnail>
+</item>
+
 <item>
 <title>Al Masria</title>
 <link>http://38.99.146.36:7777/AlMasriyah_HD/AlMasriyah_HD.m3u8</link>
 <thumbnail>http://i82.servimg.com/u/f82/17/28/12/40/egypti10.png</thumbnail>
 </item>
+
 <item>
 <title>Alan</title>
 <link>http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/master.m3u8</link>
