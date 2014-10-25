@@ -1,5 +1,5 @@
 <item>
-<title>TEST mbc</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.com:1935/teledunet/mbc_1 swfUrl=http://www.teledunet.com/player.swf?id0=82966220939800&skin=bekle/bekle.xml&channel=mbc_1 live=1 pageUrl=http://www.teledunet.com/</link>
+<title>TEST</title>
+<link>http://ys-live.ds.cdn.yousee.tv/iPho...p-mr2548k.m3u8</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
