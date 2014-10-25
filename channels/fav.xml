@@ -1,5 +1,70 @@
 <item>
-<title>Panorama Film</title>
-<link>mms://38.96.148.75/CH1TV</link>
+<title>MBC 1</title>
+<link>rtmp://185.5.222.189/live/MBC1</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC 2</title>
+<link>rtmp://185.5.222.189/live/MBC2</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC 3</title>
+<link>rtmp://185.5.222.189/live/MBC3</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC 4</title>
+<link>rtmp://185.5.222.189/live/MBC4</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC Bollywood</title>
+<link>rtmp://185.5.222.189/live/MBCBollywood</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC Max</title>
+<link>rtmp://185.5.222.189/live/MBCMax</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC Action</title>
+<link>rtmp://185.5.222.189/live/MBCAction</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>CBC</title>
+<link>rtmp://185.5.222.189/live/CBC </link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>CBC 2</title>
+<link>rtmp://185.5.222.189/live/CBC2</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>CBC Drama</title>
+<link>rtmp://185.5.222.189/live/CBCDrama</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC 1</title>
+<link>rtmp://185.5.222.189/live/MBC1</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC 1</title>
+<link>rtmp://185.5.222.189/live/MBC1</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC 1</title>
+<link>rtmp://185.5.222.189/live/MBC1</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+<item>
+<title>MBC 1</title>
+<link>rtmp://185.5.222.189/live/MBC1</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
