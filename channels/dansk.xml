@@ -136,6 +136,12 @@
 </item>
 
 <item>
+<title>TV1000 (2 lydspor)</title>
+<link>http://217.114.178.110:4022/udp/236.0.6.63:1120</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+
+<item>
 <title>Lifestyle TV SE</title>
 <link>rtmp://stream1.lifestyletv.se/live/livestream2</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lifestyle_tv_se.png</thumbnail>
