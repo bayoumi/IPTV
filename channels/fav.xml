@@ -1,11 +1,23 @@
 <item>
-<title>Eroxx</title>
-<link>http://spi-live.ercdn.net/spi/eroxhd_0_1/chunklist.m3u8</link>
+<title>filmon black</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/244.high.stream</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
 <item>
 <title>Brazzers</title>
 <link>http://80.87.146.133:1111/udp/230.3.4.121:5678</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+
+<item>
+<title>darling</title>
+<link>http://188.65.66.130:7781/udp/233.166.172.16:1234</link>
+<thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
+</item>
+
+<item>
+<title>dorcel</title>
+<link>http://dt3zwsgl95oj4.cloudfront.net/live2/dorceltv.smil/manifest.m3u8</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
