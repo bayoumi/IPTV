@@ -1,12 +1,12 @@
 <item>
-<title>bella</title>
-<link>http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8</link>
+<title>tv1000</title>
+<link>http://217.114.178.110:4022/udp/236.0.6.63:1120</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
 <item>
-<title>disco</title>
-<link>http://217.78.185.253:3000/udp/239.77.0.146:1234 </link>
+<title>sky cinema</title>
+<link>http://82.135.224.134:80/udp/239.102.0.192:1234</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 
@@ -17,8 +17,8 @@
 </item>
 
 <item>
-<title>6</title>
-<link>http://92.246.18.250:9981/stream/channelid/10</link>
+<title>car</title>
+<link>http://82.135.224.134:80/udp/239.102.1.35:1234?by_HasBahCa</link>
 <thumbnail>http://prosports.mbc.net/dms/Promos/Dawry/live1.jpg</thumbnail>
 </item>
 http://92.246.18.250:9981/stream/channelid/4
